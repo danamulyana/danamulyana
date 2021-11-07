@@ -1,9 +1,13 @@
 ## Hey 👋, This is dana mulyana
-[![Gmail Badge](https://img.shields.io/badge/-danabontot@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:danabontot@gmail.com)](mailto:danabontot@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-danamulyana-a30699163-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danamulyana-a30699163/)](https://www.linkedin.com/in/danamulyana-a30699163/) [![Github Badge](https://img.shields.io/badge/-danamulyana-grey?style=flat&logo=github&logoColor=white&link=https://github.com/danamulyana/)](https://www.github.com/danamulyana/) <p align='left'>👋 Hi, I’m Dana Mulyana
+[![Gmail Badge](https://img.shields.io/badge/-ngoding.danamulyana@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ngoding.danamulyana@gmail.com)](mailto:danabontot@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-danamulyana-grey?style=flat&logo=github&logoColor=white&link=https://github.com/danamulyana/)](https://www.github.com/danamulyana/)
+<a href="https://www.linkedin.com/in/dana-mulyana-a30699163/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<p align='left'>👋 Hi, I’m Dana Mulyana
 👀 I'm an Intern at kalbe morinaga Indonesia
 🌱 I’m currently learning Framework javascript, Python and Android
-📫 contact me at ngoding.danamulyana@gmail.com</p>
+📫 contact me at ngoding.danamulyana@gmail.com
+</p>
+
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=danamulyana alt=danamulyana /> </p>
 

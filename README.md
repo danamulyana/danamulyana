@@ -1,5 +1,5 @@
 ## Hey 👋, This is dana mulyana
-[![Gmail Badge](https://img.shields.io/badge/-ngoding.danamulyana@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ngoding.danamulyana@gmail.com)](mailto:danabontot@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-ngoding.danamulyana@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ngoding.danamulyana@gmail.com)](mailto:ngoding.danamulyana@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-danamulyana-grey?style=flat&logo=github&logoColor=white&link=https://github.com/danamulyana/)](https://www.github.com/danamulyana/)
 <a href="https://www.linkedin.com/in/dana-mulyana-a30699163/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <p align='left'>👋 Hi, I’m Dana Mulyana
